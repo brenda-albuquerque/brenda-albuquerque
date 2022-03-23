@@ -1,6 +1,6 @@
 <h1 align="left"> Hii, i'm Brenda Albuquerque! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> </h1>
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Selenium
 -  😄 Pronouns: She/Her
 
 
@@ -13,7 +13,9 @@
 <div style="display: inline_block"><br>
    <img align="center" alt="Bre-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Bre-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bre-HTML" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+  <img align="center" alt="Bre-PyCharm" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+  <img align="center" alt="Bre-VSC" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+  <img align="center" alt="Bre-Selenium" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
 </div>
   
   ##

@@ -3,11 +3,10 @@
 - 🌱 I’m currently learning Python and Selenium
 -  😄 Pronouns: She/Her
 
-
 <div align="center">
   <a href="https://github.com/brenda-albuquerque">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenda-albuquerque&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenda-albuquerque&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    </div>
 
 </div>
 <div style="display: inline_block"><br>

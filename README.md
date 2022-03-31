@@ -1,7 +1,8 @@
-<h1 align="left"> Hii, i'm Brenda Albuquerque! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> </h1>
+<h1 align="left"> Oii, eu sou Brenda Albuquerque! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> </h1>
 
-- 🌱 I’m currently learning Python and Selenium
+- 🌱 Estudando Python e Selenium
 -  😄 Pronouns: She/Her
+-  🚀 Em busca da minha primeira oportunidade!
 
 <div align="center">
   <a href="https://github.com/brenda-albuquerque">

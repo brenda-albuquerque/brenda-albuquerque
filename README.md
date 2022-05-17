@@ -1,6 +1,6 @@
 <h1 align="left"> Oii, eu sou Brenda Albuquerque! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> </h1>
 
-- 🌱 Estudando Python e Selenium
+- 🌱 Estudando JavaScript
 -  😄 Pronomes: Ela/Dela
 -  🚀 Em busca da minha primeira oportunidade!
 

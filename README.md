@@ -1,7 +1,10 @@
-<h1 align="left"> Olá, eu sou Brenda Albuquerque! </h1>
+<h1> Olá, sou Brenda Albuquerque! 👋 </h1>
+
 
 - 🌱 Estudando JavaScript
--  😄 Pronomes: Ela/Dela
+- 😄 Pronomes: Ela/Dela
+- 💻 Quality Assurance (QA) | Tester
+
 
 <div> 
   <a href = "mailto:contatobrealbuquerque@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -11,7 +14,7 @@
   <a href="https://github.com/brenda-albuquerque">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenda-albuquerque&show_icons=true&theme=dark&include_all_commits==true&count_private==true"/>
     </div>
-
+  
 </div>
 <div style="display: inline_block"><br>
    <img align="center" alt="Bre-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">

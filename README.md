@@ -2,7 +2,6 @@
 
 
 - 🌱 Estudando JavaScript
-- 😄 Pronomes: Ela/Dela
 - 💻 Quality Assurance (QA) | Tester
 
 
